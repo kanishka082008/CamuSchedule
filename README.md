@@ -403,7 +403,8 @@ EVEN-JUNIOR I 2025-2026
 ```
 
 ## OUTPUT:
-![alt text](<camu output.png>)
+<img width="1920" height="1080" alt="camu output" src="https://github.com/user-attachments/assets/5615bafb-ed9b-4969-874b-40e2b5e73624" />
+
 
 ## RESULT:
 A responsive and visually appealing CAMU Schedule web page using Bootstrap is designed successfully.
